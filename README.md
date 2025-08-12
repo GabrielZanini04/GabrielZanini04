@@ -1,6 +1,6 @@
 # 👨‍💻 Gabriel de Azevedo Zanini
 
-**`Desenvolvedor FullStack`**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer)](https://git.io/typing-svg)
 
 Me chamo Gabriel de Azevedo Zanini, tenho 20 anos e sou natural do Paraná. Atualmente, curso Engenharia da Computação na UEPG, focado em desenvolvimento web. Tenho habilidades em linguagens e frameworks modernos, aprendizado rápido e interesse por tecnologias emergentes.
 
