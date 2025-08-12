@@ -1,8 +1,8 @@
 # 👨‍💻 Gabriel de Azevedo Zanini
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer)](https://git.io/typing-svg)
+**`Desenvolvedor FullStack`**
 
-Me chamo Gabriel de Azevedo Zanini, tenho 20 anos e sou natural do Paraná. Atualmente, estou cursando Engenharia da Computação na UEPG, com foco no desenvolvimento web. Habilidade em linguagens e frameworks modernos, rápido aprendizado e interesse por tecnologias emergentes.
+Me chamo Gabriel de Azevedo Zanini, tenho 20 anos e sou natural do Paraná. Atualmente, curso Engenharia da Computação na UEPG, focado em desenvolvimento web. Tenho habilidades em linguagens e frameworks modernos, aprendizado rápido e interesse por tecnologias emergentes.
 
 ---
 
@@ -10,7 +10,6 @@ Me chamo Gabriel de Azevedo Zanini, tenho 20 anos e sou natural do Paraná. Atua
 
 <a href="https://www.instagram.com/_gabriel_zanini_/" target="_blank">
   <img 
-    align="left" 
     alt="Instagram" 
     title="Instagram" 
     width="40px" 
@@ -21,21 +20,29 @@ Me chamo Gabriel de Azevedo Zanini, tenho 20 anos e sou natural do Paraná. Atua
 
 <a href="https://www.linkedin.com/in/gabriel-zanini-1b70832b6" target="_blank">
   <img 
-    align="left" 
     alt="LinkedIn" 
     title="LinkedIn" 
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" 
+  />
+</a>
+
+<a href="https://github.com/GabrielZanini04" target="_blank">
+  <img 
+    alt="GitHub" 
+    title="GitHub" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" 
   />
 </a>
 
 <br/>
-<br/>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Tecnologias
 
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
 <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
@@ -46,25 +53,27 @@ Me chamo Gabriel de Azevedo Zanini, tenho 20 anos e sou natural do Paraná. Atua
 <img align="left" alt="Laravel" title="Laravel" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/>
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 
-<br/>
-<br/>
+<br/><br/>
 
-### 📊 Estatísticas
+---
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=GabrielZanini04&show_icons=true&include_all_commits=true&locale=pt-br&theme=dark" 
-  />
+### 📂 Projetos em Destaque
 
-  <img 
-    align="left" 
-    alt="Top Languages" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielZanini04&layout=compact&theme=dark&langs_count=9" 
-  />
-</p>
+- [Nome do Projeto 1](https://github.com/GabrielZanini04/projeto1) — Breve descrição do projeto 1.
+- [Nome do Projeto 2](https://github.com/GabrielZanini04/projeto2) — Breve descrição do projeto 2.
+- [Nome do Projeto 3](https://github.com/GabrielZanini04/projeto3) — Breve descrição do projeto 3.
 
+*(Substitua os nomes e links pelos seus projetos reais)*
+
+---
+
+### 📫 Como me encontrar
+
+- Email: gabrielzanini03@gmail.com  
+- LinkedIn: [linkedin.com/in/gabriel-zanini-1b70832b6](https://www.linkedin.com/in/gabriel-zanini-1b70832b6)  
+- Instagram: [@_gabriel_zanini_](https://www.instagram.com/_gabriel_zanini_/)  
+- GitHub: [github.com/GabrielZanini04](https://github.com/GabrielZanini04)
+
+---
+
+Obrigado por visitar meu perfil! 🚀
