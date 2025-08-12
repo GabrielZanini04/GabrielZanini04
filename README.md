@@ -13,8 +13,8 @@ Me chamo Gabriel de Azevedo Zanini, tenho 20 anos e sou natural do Paraná. Atua
     alt="Instagram" 
     title="Instagram" 
     width="40px" 
-    style="padding-right: 10px; filter: invert(1);" 
-    src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/ios-filled/50/ffffff/instagram-new.png" 
   />
 </a>
 
@@ -23,8 +23,8 @@ Me chamo Gabriel de Azevedo Zanini, tenho 20 anos e sou natural do Paraná. Atua
     alt="LinkedIn" 
     title="LinkedIn" 
     width="40px" 
-    style="padding-right: 10px; filter: invert(1);" 
-    src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" 
   />
 </a>
 
@@ -33,10 +33,11 @@ Me chamo Gabriel de Azevedo Zanini, tenho 20 anos e sou natural do Paraná. Atua
     alt="GitHub" 
     title="GitHub" 
     width="40px" 
-    style="padding-right: 10px; filter: invert(1);" 
-    src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/ios-glyphs/50/ffffff/github.png" 
   />
 </a>
+
 
 <br/>
 
