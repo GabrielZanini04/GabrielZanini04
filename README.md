@@ -59,11 +59,7 @@ Me chamo Gabriel de Azevedo Zanini, tenho 20 anos e sou natural do Paraná. Atua
 
 ### 📂 Projetos em Destaque
 
-- [Nome do Projeto 1](https://github.com/GabrielZanini04/projeto1) — Breve descrição do projeto 1.
-- [Nome do Projeto 2](https://github.com/GabrielZanini04/projeto2) — Breve descrição do projeto 2.
-- [Nome do Projeto 3](https://github.com/GabrielZanini04/projeto3) — Breve descrição do projeto 3.
 
-*(Substitua os nomes e links pelos seus projetos reais)*
 
 ---
 
