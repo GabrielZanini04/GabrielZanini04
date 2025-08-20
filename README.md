@@ -59,8 +59,8 @@ Me chamo Gabriel de Azevedo Zanini, tenho 20 anos e sou natural do Paraná. Atua
 ---
 
 ### 📂 Projetos em Destaque
--Pokedex interativa
--Crud de usuários
+- Pokedex interativa
+- Crud de usuários
 
 ---
 
